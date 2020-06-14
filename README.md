@@ -1,2 +1,2 @@
 # C_applications
-Here I try to implement some elementary applications fro learning purposes.
+Here I try to implement some elementary applications for learning purposes.
